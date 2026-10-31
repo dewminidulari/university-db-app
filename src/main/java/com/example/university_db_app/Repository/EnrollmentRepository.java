@@ -1,7 +1,7 @@
 package com.example.university_db_app.Repository;
 
 import com.example.university_db_app.dto.CourseEnrollmentCount;
-import com.example.universitydb.model.Enrollment;
+import com.example.university_db_app.model.Enrollment;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import java.util.Collection;
